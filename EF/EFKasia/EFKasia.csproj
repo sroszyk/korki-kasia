@@ -5,7 +5,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{DC41F01A-A474-4714-88DA-1C0ED79FB9A9}</ProjectGuid>
+    <ProjectGuid>{59A2B4DE-9819-4928-97F2-AADABFDFF031}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>EFKasia</RootNamespace>
     <AssemblyName>EFKasia</AssemblyName>
@@ -62,7 +62,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\EFKasia.Models\EFKasia.Models.csproj">
-      <Project>{C8060C0D-F959-4957-8813-2EEF0F23D470}</Project>
+      <Project>{c8060c0d-f959-4957-8813-2eef0f23d470}</Project>
       <Name>EFKasia.Models</Name>
     </ProjectReference>
   </ItemGroup>
